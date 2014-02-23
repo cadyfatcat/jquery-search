@@ -1,6 +1,6 @@
 JqSearch
 
-A JQuery Dingle page search plugin
+A JQuery Single page search plugin
 
 Currently in development
 
