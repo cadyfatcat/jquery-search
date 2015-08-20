@@ -16,8 +16,8 @@ margin: auto;
 </style>
 <body>
 <div class="container">
-  <h1>This is testing search</h1>
-
+  <h1>This is testing search yes!</h1>
+<h2>updating this index</h2>
 
 
 
